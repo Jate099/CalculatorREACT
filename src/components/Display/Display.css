@@ -1,0 +1,17 @@
+.Display{
+    width: 100%;
+    box-sizing: border-box;
+    background-color: lightgray;
+    border: solid 1px;
+    text-align: right;
+    padding: 4px;
+    margin-bottom: 2px;
+}
+
+.Display__top{
+    font-size: 20px;
+}
+
+.Display__bottom{
+    font-size: 28px;
+}

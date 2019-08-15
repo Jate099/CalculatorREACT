@@ -1,0 +1,34 @@
+.Button{
+    width: 100px;
+    height: 40px;
+    border: solid 1px;
+    border-color: lightgray;
+    box-sizing: border-box;
+}
+
+.Button:hover{
+    background-color: lightgray;
+}
+
+.Button--numberico{
+    font-weight: bold;
+    background-color: white;
+}
+
+.Button--operator{
+    background-color: lightgray;
+}
+
+.Button--operator:hover{
+    background-color: blue;
+    color: white;
+}
+
+.Button--controller{
+    background-color: lightgray;
+}
+
+.Button--controller:hover{
+    color: white;
+    background-color: gray;
+}
